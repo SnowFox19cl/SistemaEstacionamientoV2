@@ -13,6 +13,7 @@ namespace SistemaEstacionamiento.Models
         public Vehiculos vehiculoAsignado { get; set; }
         public TarifaSector sectorAsignado { get; set; }
         public DateTime horaEntrada { get; set; }
+        public DateTime? horaSalida { get; set; }
         public decimal TotalPagado { get; set; }
 
     }
