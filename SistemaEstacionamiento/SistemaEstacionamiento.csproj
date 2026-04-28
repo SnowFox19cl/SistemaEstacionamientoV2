@@ -60,7 +60,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RegistroTarifa.cs" />
+    <Compile Include="RegistroEntradaSalida.cs" />
+    <Compile Include="TarifaSector.cs" />
     <Compile Include="Usuario.cs" />
     <Compile Include="Vehiculos.cs" />
     <EmbeddedResource Include="Form1.resx">
